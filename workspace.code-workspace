@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "../azure-aks-kubernetes-masterclass"
+		},
+		{
+			"path": "../cssProject"
+		},
+		{
+			"path": "../docker"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {}
+}
